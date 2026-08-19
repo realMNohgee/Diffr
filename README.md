@@ -1,4 +1,5 @@
 # diffr
+![CI](https://github.com/realMNohgee/Diffr/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 CLI diff tool: compare, HTML side-by-side diff, and patch application.
 
